@@ -1,0 +1,127 @@
+.mainsection{
+    background-color: white;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 3000px;
+}
+
+.mainsection__wrapper{
+    width: 1140px;
+    height: 3000px;
+}
+
+.first__thesis{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.first__section{
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.first__section__content{
+    width: 550px;
+    height: 120px;
+}
+
+.second__section__content{
+
+}
+
+.second__thesis{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    height: 100px;
+}
+
+.first{
+    height: 350px;
+}
+
+
+
+.second__section__element{
+    background-color: #EBEBEB;
+    border-radius: 25px;
+    width: 430px;
+    padding: 20px 40px 20px 40px;
+}
+
+.second__section__content__wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.second__section__content__buttons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.third__section{
+    height: 320px;
+    width: 520px;
+}
+
+.third__section__thesis{
+    width: 100%;
+}
+
+.third__section__highlight{
+    background-color: #FBEAF9;
+    border-radius: 25px;
+    height: 50px;
+    width: 275px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.row p{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+.third__fourth__sections{
+    display: flex;
+    justify-content: space-between;
+}
+
+.blue{
+    color: #365AB0;
+}
+
+.fifth__section{
+    height: 470px;
+}
+
+.fifth__section__wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.pink{
+    font-style: italic;
+    color: #D136C2;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.fifth__section__wrapper p{
+    width: 460px;
+    height: 220px;
+}

@@ -1,0 +1,22 @@
+.number{
+    color: #365AB0;
+    font-size: 70px;
+    display: flex;
+    align-items: self-end;
+    font-style: italic;
+    font-weight: 700;
+}
+
+.thesis{
+    font-size: 26px;
+    display: flex;
+    align-items: self-end;
+    padding-bottom: 17px;
+    font-weight: 600;
+}
+
+.thesis__wrapper {
+    display: flex;
+    flex-direction: row;
+gap: 5px;
+}
