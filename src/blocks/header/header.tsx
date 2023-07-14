@@ -1,11 +1,9 @@
-import mainpic from "./../../assets/mainpic.png";
+import mainpic from "./../../assets/bigmainpic.png";
 
 export function Header() {
-    return(
-
+    return(<div className="header">
             <img src={mainpic} alt=""/>
-
-
+        </div>
 
     )
 }
