@@ -1,0 +1,6 @@
+.tutor__wrapper{
+    display: grid;
+    grid-template-rows: 160px 50px ;
+    max-width: 350px;
+    margin-top: 30px;
+}

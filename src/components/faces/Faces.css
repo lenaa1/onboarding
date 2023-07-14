@@ -1,0 +1,20 @@
+.faces{
+    height: 400px;
+    max-width: 278px;
+    display: grid;
+    grid-template-rows: 200px 62px 55px 60px;
+    gap: 10px;
+
+}
+
+.sixth__section__highlight{
+    width: auto;
+    height: 60px;
+    background-color: #CCD5EB;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 15px;
+}
+

@@ -1,9 +1,10 @@
-import mainpic from "./../../assets/onboardingmainpic.png";
-import { Thesis } from './../../components/thesis/thesis'
+import mainpic from "./../../assets/mainpic.png";
+
 export function Header() {
     return(
 
             <img src={mainpic} alt=""/>
+
 
 
     )

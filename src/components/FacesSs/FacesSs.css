@@ -1,0 +1,24 @@
+.faces__ss{
+    width: 480px;
+    height: 160px;
+    display: grid;
+    grid-template-columns: 160px 320px;
+}
+
+.faces__ss__name{
+    margin-left: 20px;
+    display: grid;
+    grid-template-rows: 55px 105px;
+}
+
+.name{
+    font-size: 24px;
+}
+
+.ss__job{
+    font-size: 18px;
+}
+
+.tutor{
+    margin-top: 10px;
+}
